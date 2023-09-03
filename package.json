@@ -53,5 +53,8 @@
   "bugs": {
     "url": "https://github.com/vmillozza/carfront/issues"
   },
-  "homepage": "https://github.com/vmillozza/carfront#readme"
+  "homepage": "https://github.com/vmillozza/carfront#readme",
+  "devDependencies": {
+    "react-test-renderer": "^18.2.0"
+  }
 }
